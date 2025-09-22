@@ -1,5 +1,5 @@
 streamlit
-yt-dlp>=2023.12.30
+yt-dlp>=2025.09.05
 pyrogram>=2.0.106
 tgcrypto>=1.2.5
 aiohttp>=3.9.0
